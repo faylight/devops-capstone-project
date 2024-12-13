@@ -1,0 +1,6 @@
+spec:
+  template:
+    spec:
+      containers:
+      - image: image-registry.openshift-image-registry.svc:5000/sn-labs-tiffanylebre
+        name: accounts
